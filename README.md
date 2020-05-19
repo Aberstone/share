@@ -1,5 +1,5 @@
 ---
-description: 学习《SCIP》之余的一些数学延拓
+description: 一些过程抽象相关的内容
 ---
 
 # 从佩亚诺公理到 λ -演算
